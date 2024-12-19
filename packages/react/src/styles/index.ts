@@ -22,7 +22,7 @@ export const {
   themeMap: {
     ...defaultThemeMap,
     height: 'space',
-    width: 'spance',
+    width: 'space',
   },
   theme: {
     colors,
@@ -30,7 +30,7 @@ export const {
     fontWeights,
     fonts,
     lineHeights,
-    raddi: radii,
+    radii,
     space,
   },
 })
