@@ -1,5 +1,6 @@
-import { ComponentProps, ElementType } from 'react'
+import { ElementType } from 'react'
 import { styled } from '../styles'
+import { ComponentProps } from '@stitches/react'
 
 export const Button = styled('button', {
   all: 'unset',

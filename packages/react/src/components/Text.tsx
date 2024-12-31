@@ -1,5 +1,6 @@
+import { ComponentProps } from '@stitches/react'
 import { styled } from '../styles'
-import { ComponentProps, ElementType } from 'react'
+import { ElementType } from 'react'
 
 export const Text = styled('div', {
   fontFamily: '$default',
