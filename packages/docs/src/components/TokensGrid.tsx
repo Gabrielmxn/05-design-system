@@ -1,4 +1,4 @@
-import '../styles/mxn-ignite-grid.css'
+import '../styles/tokens-grid.css'
 
 interface TokensGridProps {
   tokens: Record<string, string>
