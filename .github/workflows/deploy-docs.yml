@@ -18,8 +18,8 @@ jobs:
       - run: npm ci
       - run: npm run build
         env: 
-          TURBO_TOKEN: P8E5BgHhZWmF7C7YyIAAAakW
-          TURBO_TEAM: gabrielmxns-projects
+          TURBO_TOKEN: ${{secrets.TURBO_TOKEN}}
+          TURBO_TEAM: ${{secrets.TURBO_TEAM}}
       - name: Deploy storybook
         working-directory: ./packages/docs
         run: touch storybook-static/.nojekyll && npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
