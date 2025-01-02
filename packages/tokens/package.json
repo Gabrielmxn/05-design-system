@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@mxn-ignite-ui/eslint-config": "*",
+    "@mxn-ignite-ui/ts-config": "*",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2"
   }
