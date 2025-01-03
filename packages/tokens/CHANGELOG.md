@@ -1,5 +1,11 @@
 # @mxn-ignite-ui/tokens
 
+## 2.1.2
+
+### Patch Changes
+
+- add toast and tooltip
+
 ## 2.1.1
 
 ### Patch Changes

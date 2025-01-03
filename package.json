@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "scripts": {
+    "dev": "turbo run dev --parallel",
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
