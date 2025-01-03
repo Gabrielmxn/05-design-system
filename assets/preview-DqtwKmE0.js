@@ -1,0 +1,1 @@
+import{N as r}from"./index-CLqDXS6w.js";import"./index-BzhKaBtb.js";import"./_commonjsHelpers-CqkleIqs.js";const t={parameters:{docs:{theme:r.dark},backgrounds:{default:"dark"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}}};export{t as default};
